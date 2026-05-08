@@ -1,0 +1,33 @@
+[
+  {
+    "id": "1776716887593bynsvro13",
+    "createdAt": "2026-04-20T20:28:07.593Z",
+    "updatedAt": "2026-04-20T20:28:07.593Z",
+    "userId": "1776716298396ae385tis3",
+    "simulationType": "job-interview",
+    "conversationHistory": [],
+    "score": null,
+    "feedback": null,
+    "xpEarned": 0,
+    "completed": false,
+    "completedAt": null
+  },
+  {
+    "id": "17767320378747ydfn5swk",
+    "createdAt": "2026-04-21T00:40:37.874Z",
+    "updatedAt": "2026-04-21T00:40:47.902Z",
+    "userId": "17767319993353k2tx93za",
+    "simulationType": "job-interview",
+    "conversationHistory": [
+      {
+        "role": "assistant",
+        "content": "**Job Interview Simulation: Entry-Level Software Developer Position**\n\nWelcome to the job interview simulation. I'll be playing the role of the interviewer, and you'll be the candidate applying for an entry-level software developer position at a tech company. Our company specializes in developing innovative software solutions for various industries.\n\nAs we begin, I want to assure you that this is a simulated interview, and the goal is to provide a realistic experience and help you prepare for your future job interviews.\n\nBefore we start, let me introduce myself. My name is Rachel Lee, and I'm a Senior Software Engineer and Team Lead at the company. I'll be conducting the interview today.\n\nCan you start by introducing yourself, telling me a little about your background, and why you're interested in this entry-level software developer position?\n\n(Please respond as if you were in a real interview. I'll provide feedback and ask follow-up questions based on your responses.)"
+      }
+    ],
+    "score": null,
+    "feedback": null,
+    "xpEarned": 0,
+    "completed": false,
+    "completedAt": null
+  }
+]

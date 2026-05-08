@@ -1,0 +1,1146 @@
+[
+  {
+    "id": "1776711360089u5sylyegf",
+    "createdAt": "2026-04-20T18:56:00.089Z",
+    "updatedAt": "2026-04-20T18:56:00.089Z",
+    "userId": "1776711180809nnwbkyshe",
+    "eventType": "coach_interaction",
+    "eventData": {
+      "messageLength": 42,
+      "hasContext": false,
+      "topic": "finance",
+      "sentiment": "neutral",
+      "complexity": "complex"
+    },
+    "context": {
+      "timestamp": "2026-04-20T18:56:00.088Z"
+    },
+    "patterns": {
+      "frequency": {
+        "currentEventCount": {
+          "total": 0,
+          "daily": 0,
+          "weekly": 0
+        },
+        "mostFrequent": "none",
+        "dailyActivity": 0,
+        "weeklyActivity": 0
+      },
+      "timing": {
+        "peakHour": 0,
+        "peakDay": 0,
+        "currentHourActivity": 0,
+        "currentDayActivity": 0,
+        "isTypicalTime": true,
+        "timeOfDayPattern": "night"
+      },
+      "sequences": {
+        "commonSequences": [],
+        "followsPattern": false,
+        "potentialSequence": "coach_interaction",
+        "sequenceBreaker": false
+      },
+      "engagement": {
+        "avgSessionLength": 0,
+        "avgInteractionDepth": 0,
+        "totalSessions": 0,
+        "currentSessionLength": 0,
+        "engagementLevel": "low",
+        "isDeepEngagement": false
+      },
+      "learning": {
+        "totalLearningEvents": 0,
+        "avgScore": 0,
+        "progressionTrend": "insufficient_data",
+        "learningVelocity": 0,
+        "preferredLearningStyle": "visual",
+        "isLearningEvent": false,
+        "strugglingArea": null
+      }
+    }
+  },
+  {
+    "id": "177671179195257ofxqv31",
+    "createdAt": "2026-04-20T19:03:11.952Z",
+    "updatedAt": "2026-04-20T19:03:11.952Z",
+    "userId": "1776704552868t56wziodc",
+    "eventType": "coach_interaction",
+    "eventData": {
+      "messageLength": 37,
+      "hasContext": false,
+      "topic": "legal",
+      "sentiment": "neutral",
+      "complexity": "complex"
+    },
+    "context": {
+      "timestamp": "2026-04-20T19:03:11.951Z"
+    },
+    "patterns": {
+      "frequency": {
+        "currentEventCount": {
+          "total": 0,
+          "daily": 0,
+          "weekly": 0
+        },
+        "mostFrequent": "none",
+        "dailyActivity": 0,
+        "weeklyActivity": 0
+      },
+      "timing": {
+        "peakHour": 0,
+        "peakDay": 0,
+        "currentHourActivity": 0,
+        "currentDayActivity": 0,
+        "isTypicalTime": true,
+        "timeOfDayPattern": "night"
+      },
+      "sequences": {
+        "commonSequences": [],
+        "followsPattern": false,
+        "potentialSequence": "coach_interaction",
+        "sequenceBreaker": false
+      },
+      "engagement": {
+        "avgSessionLength": 0,
+        "avgInteractionDepth": 0,
+        "totalSessions": 0,
+        "currentSessionLength": 0,
+        "engagementLevel": "low",
+        "isDeepEngagement": false
+      },
+      "learning": {
+        "totalLearningEvents": 0,
+        "avgScore": 0,
+        "progressionTrend": "insufficient_data",
+        "learningVelocity": 0,
+        "preferredLearningStyle": "visual",
+        "isLearningEvent": false,
+        "strugglingArea": null
+      }
+    }
+  },
+  {
+    "id": "177671181614656lzpevm3",
+    "createdAt": "2026-04-20T19:03:36.146Z",
+    "updatedAt": "2026-04-20T19:03:36.146Z",
+    "userId": "1776068942375dtc3bzjfq",
+    "eventType": "coach_interaction",
+    "eventData": {
+      "messageLength": 39,
+      "hasContext": false,
+      "topic": "career",
+      "sentiment": "neutral",
+      "complexity": "complex"
+    },
+    "context": {
+      "timestamp": "2026-04-20T19:03:36.145Z"
+    },
+    "patterns": {
+      "frequency": {
+        "currentEventCount": {
+          "total": 0,
+          "daily": 0,
+          "weekly": 0
+        },
+        "mostFrequent": "none",
+        "dailyActivity": 0,
+        "weeklyActivity": 0
+      },
+      "timing": {
+        "peakHour": 0,
+        "peakDay": 0,
+        "currentHourActivity": 0,
+        "currentDayActivity": 0,
+        "isTypicalTime": true,
+        "timeOfDayPattern": "night"
+      },
+      "sequences": {
+        "commonSequences": [],
+        "followsPattern": false,
+        "potentialSequence": "coach_interaction",
+        "sequenceBreaker": false
+      },
+      "engagement": {
+        "avgSessionLength": 0,
+        "avgInteractionDepth": 0,
+        "totalSessions": 0,
+        "currentSessionLength": 0,
+        "engagementLevel": "low",
+        "isDeepEngagement": false
+      },
+      "learning": {
+        "totalLearningEvents": 0,
+        "avgScore": 0,
+        "progressionTrend": "insufficient_data",
+        "learningVelocity": 0,
+        "preferredLearningStyle": "visual",
+        "isLearningEvent": false,
+        "strugglingArea": null
+      }
+    }
+  },
+  {
+    "id": "1776712195569lea5msrnd",
+    "createdAt": "2026-04-20T19:09:55.569Z",
+    "updatedAt": "2026-04-20T19:09:55.569Z",
+    "userId": "1776704552868t56wziodc",
+    "eventType": "coach_interaction",
+    "eventData": {
+      "messageLength": 26,
+      "hasContext": false,
+      "topic": "general",
+      "sentiment": "neutral",
+      "complexity": "complex"
+    },
+    "context": {
+      "timestamp": "2026-04-20T19:09:55.567Z"
+    },
+    "patterns": {}
+  },
+  {
+    "id": "1776712200871bilfnqj0z",
+    "createdAt": "2026-04-20T19:10:00.871Z",
+    "updatedAt": "2026-04-20T19:10:00.871Z",
+    "userId": "1776068942375dtc3bzjfq",
+    "eventType": "coach_interaction",
+    "eventData": {
+      "messageLength": 39,
+      "hasContext": false,
+      "topic": "career",
+      "sentiment": "neutral",
+      "complexity": "complex"
+    },
+    "context": {
+      "timestamp": "2026-04-20T19:10:00.869Z"
+    },
+    "patterns": {}
+  },
+  {
+    "id": "1776716359194rkzrja7a0",
+    "createdAt": "2026-04-20T20:19:19.194Z",
+    "updatedAt": "2026-04-20T20:19:19.194Z",
+    "userId": "1776716298396ae385tis3",
+    "eventType": "coach_interaction",
+    "eventData": {
+      "messageLength": 5,
+      "hasContext": false,
+      "topic": "general",
+      "sentiment": "neutral",
+      "complexity": "simple"
+    },
+    "context": {
+      "timestamp": "2026-04-20T20:19:19.190Z"
+    },
+    "patterns": {
+      "frequency": {
+        "currentEventCount": {
+          "total": 0,
+          "daily": 0,
+          "weekly": 0
+        },
+        "mostFrequent": "none",
+        "dailyActivity": 0,
+        "weeklyActivity": 0
+      },
+      "timing": {
+        "peakHour": 0,
+        "peakDay": 0,
+        "currentHourActivity": 0,
+        "currentDayActivity": 0,
+        "isTypicalTime": true,
+        "timeOfDayPattern": "night"
+      },
+      "sequences": {
+        "commonSequences": [],
+        "followsPattern": false,
+        "potentialSequence": "coach_interaction",
+        "sequenceBreaker": false
+      },
+      "engagement": {
+        "avgSessionLength": 0,
+        "avgInteractionDepth": 0,
+        "totalSessions": 0,
+        "currentSessionLength": 0,
+        "engagementLevel": "low",
+        "isDeepEngagement": false
+      },
+      "learning": {
+        "totalLearningEvents": 0,
+        "avgScore": 0,
+        "progressionTrend": "insufficient_data",
+        "learningVelocity": 0,
+        "preferredLearningStyle": "visual",
+        "isLearningEvent": false,
+        "strugglingArea": null
+      }
+    }
+  },
+  {
+    "id": "1776732037712lwqkpgrp1",
+    "createdAt": "2026-04-21T00:40:37.712Z",
+    "updatedAt": "2026-04-21T00:40:37.712Z",
+    "userId": "17767319993353k2tx93za",
+    "eventType": "coach_interaction",
+    "eventData": {
+      "messageLength": 5,
+      "hasContext": false,
+      "topic": "general",
+      "sentiment": "neutral",
+      "complexity": "simple"
+    },
+    "context": {
+      "timestamp": "2026-04-21T00:40:37.709Z"
+    },
+    "patterns": {
+      "frequency": {
+        "currentEventCount": {
+          "total": 0,
+          "daily": 0,
+          "weekly": 0
+        },
+        "mostFrequent": "none",
+        "dailyActivity": 0,
+        "weeklyActivity": 0
+      },
+      "timing": {
+        "peakHour": 0,
+        "peakDay": 0,
+        "currentHourActivity": 0,
+        "currentDayActivity": 0,
+        "isTypicalTime": false,
+        "timeOfDayPattern": "night"
+      },
+      "sequences": {
+        "commonSequences": [],
+        "followsPattern": false,
+        "potentialSequence": "coach_interaction",
+        "sequenceBreaker": false
+      },
+      "engagement": {
+        "avgSessionLength": 0,
+        "avgInteractionDepth": 0,
+        "totalSessions": 0,
+        "currentSessionLength": 0,
+        "engagementLevel": "low",
+        "isDeepEngagement": false
+      },
+      "learning": {
+        "totalLearningEvents": 0,
+        "avgScore": 0,
+        "progressionTrend": "insufficient_data",
+        "learningVelocity": 0,
+        "preferredLearningStyle": "visual",
+        "isLearningEvent": false,
+        "strugglingArea": null
+      }
+    }
+  },
+  {
+    "id": "177673263581608uyg90he",
+    "createdAt": "2026-04-21T00:50:35.816Z",
+    "updatedAt": "2026-04-21T00:50:35.816Z",
+    "userId": "1776732609774mkb532qhx",
+    "eventType": "coach_interaction",
+    "eventData": {
+      "messageLength": 5,
+      "hasContext": false,
+      "topic": "general",
+      "sentiment": "neutral",
+      "complexity": "simple"
+    },
+    "context": {
+      "timestamp": "2026-04-21T00:50:35.814Z"
+    },
+    "patterns": {
+      "frequency": {
+        "currentEventCount": {
+          "total": 0,
+          "daily": 0,
+          "weekly": 0
+        },
+        "mostFrequent": "none",
+        "dailyActivity": 0,
+        "weeklyActivity": 0
+      },
+      "timing": {
+        "peakHour": 0,
+        "peakDay": 0,
+        "currentHourActivity": 0,
+        "currentDayActivity": 0,
+        "isTypicalTime": false,
+        "timeOfDayPattern": "night"
+      },
+      "sequences": {
+        "commonSequences": [],
+        "followsPattern": false,
+        "potentialSequence": "coach_interaction",
+        "sequenceBreaker": false
+      },
+      "engagement": {
+        "avgSessionLength": 0,
+        "avgInteractionDepth": 0,
+        "totalSessions": 0,
+        "currentSessionLength": 0,
+        "engagementLevel": "low",
+        "isDeepEngagement": false
+      },
+      "learning": {
+        "totalLearningEvents": 0,
+        "avgScore": 0,
+        "progressionTrend": "insufficient_data",
+        "learningVelocity": 0,
+        "preferredLearningStyle": "visual",
+        "isLearningEvent": false,
+        "strugglingArea": null
+      }
+    }
+  },
+  {
+    "id": "1776732756046zz1yjhgq3",
+    "createdAt": "2026-04-21T00:52:36.046Z",
+    "updatedAt": "2026-04-21T00:52:36.046Z",
+    "userId": "1776732734271dq5lj2nmh",
+    "eventType": "coach_interaction",
+    "eventData": {
+      "messageLength": 5,
+      "hasContext": false,
+      "topic": "general",
+      "sentiment": "neutral",
+      "complexity": "simple"
+    },
+    "context": {
+      "timestamp": "2026-04-21T00:52:36.043Z"
+    },
+    "patterns": {
+      "frequency": {
+        "currentEventCount": {
+          "total": 0,
+          "daily": 0,
+          "weekly": 0
+        },
+        "mostFrequent": "none",
+        "dailyActivity": 0,
+        "weeklyActivity": 0
+      },
+      "timing": {
+        "peakHour": 0,
+        "peakDay": 0,
+        "currentHourActivity": 0,
+        "currentDayActivity": 0,
+        "isTypicalTime": false,
+        "timeOfDayPattern": "night"
+      },
+      "sequences": {
+        "commonSequences": [],
+        "followsPattern": false,
+        "potentialSequence": "coach_interaction",
+        "sequenceBreaker": false
+      },
+      "engagement": {
+        "avgSessionLength": 0,
+        "avgInteractionDepth": 0,
+        "totalSessions": 0,
+        "currentSessionLength": 0,
+        "engagementLevel": "low",
+        "isDeepEngagement": false
+      },
+      "learning": {
+        "totalLearningEvents": 0,
+        "avgScore": 0,
+        "progressionTrend": "insufficient_data",
+        "learningVelocity": 0,
+        "preferredLearningStyle": "visual",
+        "isLearningEvent": false,
+        "strugglingArea": null
+      }
+    }
+  },
+  {
+    "id": "1776732780584vaqfwlyjh",
+    "createdAt": "2026-04-21T00:53:00.584Z",
+    "updatedAt": "2026-04-21T00:53:00.584Z",
+    "userId": "1776732778380am9pmi2z3",
+    "eventType": "coach_interaction",
+    "eventData": {
+      "messageLength": 5,
+      "hasContext": false,
+      "topic": "general",
+      "sentiment": "neutral",
+      "complexity": "simple"
+    },
+    "context": {
+      "timestamp": "2026-04-21T00:53:00.580Z"
+    },
+    "patterns": {
+      "frequency": {
+        "currentEventCount": {
+          "total": 0,
+          "daily": 0,
+          "weekly": 0
+        },
+        "mostFrequent": "none",
+        "dailyActivity": 0,
+        "weeklyActivity": 0
+      },
+      "timing": {
+        "peakHour": 0,
+        "peakDay": 0,
+        "currentHourActivity": 0,
+        "currentDayActivity": 0,
+        "isTypicalTime": false,
+        "timeOfDayPattern": "night"
+      },
+      "sequences": {
+        "commonSequences": [],
+        "followsPattern": false,
+        "potentialSequence": "coach_interaction",
+        "sequenceBreaker": false
+      },
+      "engagement": {
+        "avgSessionLength": 0,
+        "avgInteractionDepth": 0,
+        "totalSessions": 0,
+        "currentSessionLength": 0,
+        "engagementLevel": "low",
+        "isDeepEngagement": false
+      },
+      "learning": {
+        "totalLearningEvents": 0,
+        "avgScore": 0,
+        "progressionTrend": "insufficient_data",
+        "learningVelocity": 0,
+        "preferredLearningStyle": "visual",
+        "isLearningEvent": false,
+        "strugglingArea": null
+      }
+    }
+  },
+  {
+    "id": "1776740787286ade0hrg9y",
+    "createdAt": "2026-04-21T03:06:27.286Z",
+    "updatedAt": "2026-04-21T03:06:27.286Z",
+    "userId": "1776718606169ofknat01x",
+    "eventType": "coach_interaction",
+    "eventData": {
+      "messageLength": 32,
+      "hasContext": false,
+      "topic": "housing",
+      "sentiment": "neutral",
+      "complexity": "simple"
+    },
+    "context": {
+      "timestamp": "2026-04-21T03:06:27.282Z"
+    },
+    "patterns": {
+      "frequency": {
+        "currentEventCount": {
+          "total": 0,
+          "daily": 0,
+          "weekly": 0
+        },
+        "mostFrequent": "none",
+        "dailyActivity": 0,
+        "weeklyActivity": 0
+      },
+      "timing": {
+        "peakHour": 0,
+        "peakDay": 0,
+        "currentHourActivity": 0,
+        "currentDayActivity": 0,
+        "isTypicalTime": false,
+        "timeOfDayPattern": "night"
+      },
+      "sequences": {
+        "commonSequences": [],
+        "followsPattern": false,
+        "potentialSequence": "coach_interaction",
+        "sequenceBreaker": false
+      },
+      "engagement": {
+        "avgSessionLength": 0,
+        "avgInteractionDepth": 0,
+        "totalSessions": 0,
+        "currentSessionLength": 0,
+        "engagementLevel": "low",
+        "isDeepEngagement": false
+      },
+      "learning": {
+        "totalLearningEvents": 0,
+        "avgScore": 0,
+        "progressionTrend": "insufficient_data",
+        "learningVelocity": 0,
+        "preferredLearningStyle": "visual",
+        "isLearningEvent": false,
+        "strugglingArea": null
+      }
+    }
+  },
+  {
+    "id": "17767420160016j0hhkczz",
+    "createdAt": "2026-04-21T03:26:56.001Z",
+    "updatedAt": "2026-04-21T03:26:56.001Z",
+    "userId": "1776718606169ofknat01x",
+    "eventType": "document_uploaded",
+    "eventData": {
+      "documentType": "general",
+      "fileSize": 1191881,
+      "chunkCount": 54,
+      "documentId": "17767420159760a6bk0swx"
+    },
+    "context": {
+      "timestamp": "2026-04-21T03:26:55.998Z"
+    },
+    "patterns": {}
+  },
+  {
+    "id": "1776744209479e0oe3pdme",
+    "createdAt": "2026-04-21T04:03:29.479Z",
+    "updatedAt": "2026-04-21T04:03:29.479Z",
+    "userId": "17767441868290uyv6lorw",
+    "eventType": "coach_interaction",
+    "eventData": {
+      "messageLength": 27,
+      "hasContext": false,
+      "topic": "housing",
+      "sentiment": "neutral",
+      "complexity": "complex"
+    },
+    "context": {
+      "timestamp": "2026-04-21T04:03:29.476Z"
+    },
+    "patterns": {
+      "frequency": {
+        "currentEventCount": {
+          "total": 0,
+          "daily": 0,
+          "weekly": 0
+        },
+        "mostFrequent": "none",
+        "dailyActivity": 0,
+        "weeklyActivity": 0
+      },
+      "timing": {
+        "peakHour": 0,
+        "peakDay": 0,
+        "currentHourActivity": 0,
+        "currentDayActivity": 0,
+        "isTypicalTime": false,
+        "timeOfDayPattern": "night"
+      },
+      "sequences": {
+        "commonSequences": [],
+        "followsPattern": false,
+        "potentialSequence": "coach_interaction",
+        "sequenceBreaker": false
+      },
+      "engagement": {
+        "avgSessionLength": 0,
+        "avgInteractionDepth": 0,
+        "totalSessions": 0,
+        "currentSessionLength": 0,
+        "engagementLevel": "low",
+        "isDeepEngagement": false
+      },
+      "learning": {
+        "totalLearningEvents": 0,
+        "avgScore": 0,
+        "progressionTrend": "insufficient_data",
+        "learningVelocity": 0,
+        "preferredLearningStyle": "visual",
+        "isLearningEvent": false,
+        "strugglingArea": null
+      }
+    }
+  },
+  {
+    "id": "177674442095399yxit0ds",
+    "createdAt": "2026-04-21T04:07:00.953Z",
+    "updatedAt": "2026-04-21T04:07:00.953Z",
+    "userId": "1776744393477z8uupnt0j",
+    "eventType": "coach_interaction",
+    "eventData": {
+      "messageLength": 53,
+      "hasContext": false,
+      "topic": "housing",
+      "sentiment": "neutral",
+      "complexity": "complex"
+    },
+    "context": {
+      "timestamp": "2026-04-21T04:07:00.950Z"
+    },
+    "patterns": {
+      "frequency": {
+        "currentEventCount": {
+          "total": 0,
+          "daily": 0,
+          "weekly": 0
+        },
+        "mostFrequent": "none",
+        "dailyActivity": 0,
+        "weeklyActivity": 0
+      },
+      "timing": {
+        "peakHour": 0,
+        "peakDay": 0,
+        "currentHourActivity": 0,
+        "currentDayActivity": 0,
+        "isTypicalTime": false,
+        "timeOfDayPattern": "night"
+      },
+      "sequences": {
+        "commonSequences": [],
+        "followsPattern": false,
+        "potentialSequence": "coach_interaction",
+        "sequenceBreaker": false
+      },
+      "engagement": {
+        "avgSessionLength": 0,
+        "avgInteractionDepth": 0,
+        "totalSessions": 0,
+        "currentSessionLength": 0,
+        "engagementLevel": "low",
+        "isDeepEngagement": false
+      },
+      "learning": {
+        "totalLearningEvents": 0,
+        "avgScore": 0,
+        "progressionTrend": "insufficient_data",
+        "learningVelocity": 0,
+        "preferredLearningStyle": "visual",
+        "isLearningEvent": false,
+        "strugglingArea": null
+      }
+    }
+  },
+  {
+    "id": "1776744527979qkqht2qzd",
+    "createdAt": "2026-04-21T04:08:47.979Z",
+    "updatedAt": "2026-04-21T04:08:47.979Z",
+    "userId": "1776744393477z8uupnt0j",
+    "eventType": "document_decoded",
+    "eventData": {
+      "documentType": "lease",
+      "textLength": 210,
+      "chunkCount": 1,
+      "method": "rag_enhanced"
+    },
+    "context": {
+      "timestamp": "2026-04-21T04:08:47.970Z"
+    },
+    "patterns": {}
+  },
+  {
+    "id": "1776745496857njaz65qzt",
+    "createdAt": "2026-04-21T04:24:56.857Z",
+    "updatedAt": "2026-04-21T04:24:56.857Z",
+    "userId": "1776718606169ofknat01x",
+    "eventType": "document_uploaded",
+    "eventData": {
+      "documentType": "general",
+      "fileSize": 1191881,
+      "chunkCount": 54,
+      "documentId": "17767454968260sns2w42h"
+    },
+    "context": {
+      "timestamp": "2026-04-21T04:24:56.855Z"
+    },
+    "patterns": {
+      "frequency": {
+        "currentEventCount": {
+          "total": 1,
+          "daily": 1,
+          "weekly": 1
+        },
+        "mostFrequent": "coach_interaction",
+        "dailyActivity": 2,
+        "weeklyActivity": 2
+      },
+      "timing": {
+        "peakHour": 8,
+        "peakDay": 2,
+        "currentHourActivity": 0,
+        "currentDayActivity": 2,
+        "isTypicalTime": true,
+        "timeOfDayPattern": "morning"
+      },
+      "sequences": {
+        "commonSequences": [],
+        "followsPattern": false,
+        "potentialSequence": "document_uploaded->coach_interaction->document_uploaded",
+        "sequenceBreaker": true
+      },
+      "engagement": {
+        "avgSessionLength": 2,
+        "avgInteractionDepth": 0,
+        "totalSessions": 1,
+        "currentSessionLength": 2,
+        "engagementLevel": "low",
+        "isDeepEngagement": false
+      },
+      "learning": {
+        "totalLearningEvents": 0,
+        "avgScore": 0,
+        "progressionTrend": "insufficient_data",
+        "learningVelocity": 0,
+        "preferredLearningStyle": "visual",
+        "isLearningEvent": false,
+        "strugglingArea": null
+      }
+    }
+  },
+  {
+    "id": "17767455138925229f3eet",
+    "createdAt": "2026-04-21T04:25:13.892Z",
+    "updatedAt": "2026-04-21T04:25:13.892Z",
+    "userId": "1776718606169ofknat01x",
+    "eventType": "document_decoded",
+    "eventData": {
+      "documentType": "general",
+      "textLength": 71,
+      "chunkCount": 1,
+      "method": "rag_enhanced"
+    },
+    "context": {
+      "timestamp": "2026-04-21T04:25:13.888Z"
+    },
+    "patterns": {
+      "frequency": {
+        "currentEventCount": {
+          "total": 0,
+          "daily": 0,
+          "weekly": 0
+        },
+        "mostFrequent": "document_uploaded",
+        "dailyActivity": 3,
+        "weeklyActivity": 3
+      },
+      "timing": {
+        "peakHour": 8,
+        "peakDay": 2,
+        "currentHourActivity": 1,
+        "currentDayActivity": 3,
+        "isTypicalTime": true,
+        "timeOfDayPattern": "morning"
+      },
+      "sequences": {
+        "commonSequences": [],
+        "followsPattern": false,
+        "potentialSequence": "document_uploaded->document_uploaded->document_decoded",
+        "sequenceBreaker": true
+      },
+      "engagement": {
+        "avgSessionLength": 3,
+        "avgInteractionDepth": 0,
+        "totalSessions": 1,
+        "currentSessionLength": 3,
+        "engagementLevel": "low",
+        "isDeepEngagement": false
+      },
+      "learning": {
+        "totalLearningEvents": 0,
+        "avgScore": 0,
+        "progressionTrend": "insufficient_data",
+        "learningVelocity": 0,
+        "preferredLearningStyle": "visual",
+        "isLearningEvent": false,
+        "strugglingArea": null
+      }
+    }
+  },
+  {
+    "id": "1776752338079wc2auzy9i",
+    "createdAt": "2026-04-21T06:18:58.079Z",
+    "updatedAt": "2026-04-21T06:18:58.080Z",
+    "userId": "17767515205505n7j7i8ku",
+    "eventType": "coach_interaction",
+    "eventData": {
+      "messageLength": 32,
+      "hasContext": false,
+      "topic": "housing",
+      "sentiment": "neutral",
+      "complexity": "simple"
+    },
+    "context": {
+      "timestamp": "2026-04-21T06:18:58.076Z"
+    },
+    "patterns": {
+      "frequency": {
+        "currentEventCount": {
+          "total": 0,
+          "daily": 0,
+          "weekly": 0
+        },
+        "mostFrequent": "none",
+        "dailyActivity": 0,
+        "weeklyActivity": 0
+      },
+      "timing": {
+        "peakHour": 0,
+        "peakDay": 0,
+        "currentHourActivity": 0,
+        "currentDayActivity": 0,
+        "isTypicalTime": false,
+        "timeOfDayPattern": "night"
+      },
+      "sequences": {
+        "commonSequences": [],
+        "followsPattern": false,
+        "potentialSequence": "coach_interaction",
+        "sequenceBreaker": false
+      },
+      "engagement": {
+        "avgSessionLength": 0,
+        "avgInteractionDepth": 0,
+        "totalSessions": 0,
+        "currentSessionLength": 0,
+        "engagementLevel": "low",
+        "isDeepEngagement": false
+      },
+      "learning": {
+        "totalLearningEvents": 0,
+        "avgScore": 0,
+        "progressionTrend": "insufficient_data",
+        "learningVelocity": 0,
+        "preferredLearningStyle": "visual",
+        "isLearningEvent": false,
+        "strugglingArea": null
+      }
+    }
+  },
+  {
+    "id": "1776752372845pxkgln1o3",
+    "createdAt": "2026-04-21T06:19:32.845Z",
+    "updatedAt": "2026-04-21T06:19:32.845Z",
+    "userId": "17767515205505n7j7i8ku",
+    "eventType": "document_uploaded",
+    "eventData": {
+      "documentType": "lease",
+      "fileSize": 1191881,
+      "chunkCount": 143,
+      "documentId": "1776752372727zx1f5n9de"
+    },
+    "context": {
+      "timestamp": "2026-04-21T06:19:32.843Z"
+    },
+    "patterns": {
+      "frequency": {
+        "currentEventCount": {
+          "total": 0,
+          "daily": 0,
+          "weekly": 0
+        },
+        "mostFrequent": "coach_interaction",
+        "dailyActivity": 1,
+        "weeklyActivity": 1
+      },
+      "timing": {
+        "peakHour": 11,
+        "peakDay": 2,
+        "currentHourActivity": 1,
+        "currentDayActivity": 1,
+        "isTypicalTime": true,
+        "timeOfDayPattern": "morning"
+      },
+      "sequences": {
+        "commonSequences": [],
+        "followsPattern": false,
+        "potentialSequence": "coach_interaction->document_uploaded",
+        "sequenceBreaker": true
+      },
+      "engagement": {
+        "avgSessionLength": 1,
+        "avgInteractionDepth": 0,
+        "totalSessions": 1,
+        "currentSessionLength": 1,
+        "engagementLevel": "low",
+        "isDeepEngagement": false
+      },
+      "learning": {
+        "totalLearningEvents": 0,
+        "avgScore": 0,
+        "progressionTrend": "insufficient_data",
+        "learningVelocity": 0,
+        "preferredLearningStyle": "visual",
+        "isLearningEvent": false,
+        "strugglingArea": null
+      }
+    }
+  },
+  {
+    "id": "1776752403672eqasr1q16",
+    "createdAt": "2026-04-21T06:20:03.672Z",
+    "updatedAt": "2026-04-21T06:20:03.672Z",
+    "userId": "17767515205505n7j7i8ku",
+    "eventType": "document_decoded",
+    "eventData": {
+      "documentType": "lease",
+      "textLength": 71,
+      "chunkCount": 1,
+      "method": "rag_enhanced"
+    },
+    "context": {
+      "timestamp": "2026-04-21T06:20:03.668Z"
+    },
+    "patterns": {
+      "frequency": {
+        "currentEventCount": {
+          "total": 0,
+          "daily": 0,
+          "weekly": 0
+        },
+        "mostFrequent": "coach_interaction",
+        "dailyActivity": 2,
+        "weeklyActivity": 2
+      },
+      "timing": {
+        "peakHour": 11,
+        "peakDay": 2,
+        "currentHourActivity": 2,
+        "currentDayActivity": 2,
+        "isTypicalTime": true,
+        "timeOfDayPattern": "morning"
+      },
+      "sequences": {
+        "commonSequences": [],
+        "followsPattern": false,
+        "potentialSequence": "document_uploaded->coach_interaction->document_decoded",
+        "sequenceBreaker": true
+      },
+      "engagement": {
+        "avgSessionLength": 2,
+        "avgInteractionDepth": 0,
+        "totalSessions": 1,
+        "currentSessionLength": 2,
+        "engagementLevel": "low",
+        "isDeepEngagement": false
+      },
+      "learning": {
+        "totalLearningEvents": 0,
+        "avgScore": 0,
+        "progressionTrend": "insufficient_data",
+        "learningVelocity": 0,
+        "preferredLearningStyle": "visual",
+        "isLearningEvent": false,
+        "strugglingArea": null
+      }
+    }
+  },
+  {
+    "id": "1776752412798a2kyfn14j",
+    "createdAt": "2026-04-21T06:20:12.798Z",
+    "updatedAt": "2026-04-21T06:20:12.798Z",
+    "userId": "17767515205505n7j7i8ku",
+    "eventType": "document_uploaded",
+    "eventData": {
+      "documentType": "general",
+      "fileSize": 1191881,
+      "chunkCount": 54,
+      "documentId": "177675241272822cuvbpud"
+    },
+    "context": {
+      "timestamp": "2026-04-21T06:20:12.796Z"
+    },
+    "patterns": {
+      "frequency": {
+        "currentEventCount": {
+          "total": 1,
+          "daily": 1,
+          "weekly": 1
+        },
+        "mostFrequent": "coach_interaction",
+        "dailyActivity": 3,
+        "weeklyActivity": 3
+      },
+      "timing": {
+        "peakHour": 11,
+        "peakDay": 2,
+        "currentHourActivity": 3,
+        "currentDayActivity": 3,
+        "isTypicalTime": true,
+        "timeOfDayPattern": "morning"
+      },
+      "sequences": {
+        "commonSequences": [],
+        "followsPattern": false,
+        "potentialSequence": "document_decoded->document_uploaded->document_uploaded",
+        "sequenceBreaker": true
+      },
+      "engagement": {
+        "avgSessionLength": 3,
+        "avgInteractionDepth": 0,
+        "totalSessions": 1,
+        "currentSessionLength": 3,
+        "engagementLevel": "low",
+        "isDeepEngagement": false
+      },
+      "learning": {
+        "totalLearningEvents": 0,
+        "avgScore": 0,
+        "progressionTrend": "insufficient_data",
+        "learningVelocity": 0,
+        "preferredLearningStyle": "visual",
+        "isLearningEvent": false,
+        "strugglingArea": null
+      }
+    }
+  },
+  {
+    "id": "1776752425489peeqxv288",
+    "createdAt": "2026-04-21T06:20:25.489Z",
+    "updatedAt": "2026-04-21T06:20:25.489Z",
+    "userId": "17767515205505n7j7i8ku",
+    "eventType": "document_decoded",
+    "eventData": {
+      "documentType": "general",
+      "textLength": 71,
+      "chunkCount": 1,
+      "method": "rag_enhanced"
+    },
+    "context": {
+      "timestamp": "2026-04-21T06:20:25.484Z"
+    },
+    "patterns": {
+      "frequency": {
+        "currentEventCount": {
+          "total": 1,
+          "daily": 1,
+          "weekly": 1
+        },
+        "mostFrequent": "document_uploaded",
+        "dailyActivity": 4,
+        "weeklyActivity": 4
+      },
+      "timing": {
+        "peakHour": 11,
+        "peakDay": 2,
+        "currentHourActivity": 4,
+        "currentDayActivity": 4,
+        "isTypicalTime": true,
+        "timeOfDayPattern": "morning"
+      },
+      "sequences": {
+        "commonSequences": [],
+        "followsPattern": false,
+        "potentialSequence": "document_uploaded->document_decoded->document_decoded",
+        "sequenceBreaker": true
+      },
+      "engagement": {
+        "avgSessionLength": 4,
+        "avgInteractionDepth": 0,
+        "totalSessions": 1,
+        "currentSessionLength": 4,
+        "engagementLevel": "low",
+        "isDeepEngagement": false
+      },
+      "learning": {
+        "totalLearningEvents": 0,
+        "avgScore": 0,
+        "progressionTrend": "insufficient_data",
+        "learningVelocity": 0,
+        "preferredLearningStyle": "visual",
+        "isLearningEvent": false,
+        "strugglingArea": null
+      }
+    }
+  }
+]

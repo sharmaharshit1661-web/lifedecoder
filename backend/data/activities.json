@@ -1,0 +1,456 @@
+[
+  {
+    "id": "1776706860867b37pwgb7a",
+    "createdAt": "2026-04-20T17:41:00.867Z",
+    "updatedAt": "2026-04-20T17:41:00.867Z",
+    "userId": "17767064055764ku16h4tu",
+    "activityType": "coach_interaction",
+    "activityData": {
+      "topic": "finance",
+      "sentiment": "neutral",
+      "complexity": "simple"
+    },
+    "timestamp": "2026-04-20T17:41:00.866Z",
+    "score": null,
+    "metadata": {}
+  },
+  {
+    "id": "1776706907434ggt40aljj",
+    "createdAt": "2026-04-20T17:41:47.434Z",
+    "updatedAt": "2026-04-20T17:41:47.434Z",
+    "userId": "17767064055764ku16h4tu",
+    "activityType": "document_analyzed",
+    "activityData": {
+      "documentType": "lease",
+      "complexity": "low"
+    },
+    "timestamp": "2026-04-20T17:41:47.434Z",
+    "score": null,
+    "metadata": {}
+  },
+  {
+    "id": "1776707267739wvkmgb7kr",
+    "createdAt": "2026-04-20T17:47:47.739Z",
+    "updatedAt": "2026-04-20T17:47:47.739Z",
+    "userId": "1776707139083hqdelb9u3",
+    "activityType": "coach_interaction",
+    "activityData": {
+      "topic": "education",
+      "sentiment": "neutral",
+      "complexity": "complex"
+    },
+    "timestamp": "2026-04-20T17:47:47.738Z",
+    "score": null,
+    "metadata": {}
+  },
+  {
+    "id": "1776707386608rsl8qi095",
+    "createdAt": "2026-04-20T17:49:46.608Z",
+    "updatedAt": "2026-04-20T17:49:46.608Z",
+    "userId": "1776707139083hqdelb9u3",
+    "activityType": "document_analyzed",
+    "activityData": {
+      "documentType": "lease",
+      "complexity": "low"
+    },
+    "timestamp": "2026-04-20T17:49:46.607Z",
+    "score": null,
+    "metadata": {}
+  },
+  {
+    "id": "1776710870154qetquxqvs",
+    "createdAt": "2026-04-20T18:47:50.154Z",
+    "updatedAt": "2026-04-20T18:47:50.154Z",
+    "userId": "177671053777087ukfmlxz",
+    "activityType": "coach_interaction",
+    "activityData": {
+      "topic": "finance",
+      "sentiment": "neutral",
+      "complexity": "complex"
+    },
+    "timestamp": "2026-04-20T18:47:50.153Z",
+    "score": null,
+    "metadata": {}
+  },
+  {
+    "id": "1776710957503hrc27fh96",
+    "createdAt": "2026-04-20T18:49:17.503Z",
+    "updatedAt": "2026-04-20T18:49:17.503Z",
+    "userId": "177671053777087ukfmlxz",
+    "activityType": "document_analyzed",
+    "activityData": {
+      "documentType": "contract",
+      "complexity": "low"
+    },
+    "timestamp": "2026-04-20T18:49:17.502Z",
+    "score": null,
+    "metadata": {}
+  },
+  {
+    "id": "1776711165576yce2yat3u",
+    "createdAt": "2026-04-20T18:52:45.576Z",
+    "updatedAt": "2026-04-20T18:52:45.576Z",
+    "userId": "177671053777087ukfmlxz",
+    "activityType": "coach_interaction",
+    "activityData": {
+      "topic": "finance",
+      "sentiment": "neutral",
+      "complexity": "simple"
+    },
+    "timestamp": "2026-04-20T18:52:45.575Z",
+    "score": null,
+    "metadata": {}
+  },
+  {
+    "id": "1776711240624hrm590vgs",
+    "createdAt": "2026-04-20T18:54:00.624Z",
+    "updatedAt": "2026-04-20T18:54:00.624Z",
+    "userId": "1776711180809nnwbkyshe",
+    "activityType": "coach_interaction",
+    "activityData": {
+      "topic": "general",
+      "sentiment": "neutral",
+      "complexity": "simple"
+    },
+    "timestamp": "2026-04-20T18:54:00.624Z",
+    "score": null,
+    "metadata": {}
+  },
+  {
+    "id": "17767112990108j3zpsmnp",
+    "createdAt": "2026-04-20T18:54:59.010Z",
+    "updatedAt": "2026-04-20T18:54:59.010Z",
+    "userId": "1776711180809nnwbkyshe",
+    "activityType": "coach_interaction",
+    "activityData": {
+      "topic": "finance",
+      "sentiment": "neutral",
+      "complexity": "complex"
+    },
+    "timestamp": "2026-04-20T18:54:59.010Z",
+    "score": null,
+    "metadata": {}
+  },
+  {
+    "id": "1776711360092w6tumbr0c",
+    "createdAt": "2026-04-20T18:56:00.092Z",
+    "updatedAt": "2026-04-20T18:56:00.092Z",
+    "userId": "1776711180809nnwbkyshe",
+    "activityType": "coach_interaction",
+    "activityData": {
+      "topic": "finance",
+      "sentiment": "neutral",
+      "complexity": "complex"
+    },
+    "timestamp": "2026-04-20T18:56:00.092Z",
+    "score": null,
+    "metadata": {}
+  },
+  {
+    "id": "1776711791954np4u1ozwf",
+    "createdAt": "2026-04-20T19:03:11.954Z",
+    "updatedAt": "2026-04-20T19:03:11.954Z",
+    "userId": "1776704552868t56wziodc",
+    "activityType": "coach_interaction",
+    "activityData": {
+      "topic": "legal",
+      "sentiment": "neutral",
+      "complexity": "complex"
+    },
+    "timestamp": "2026-04-20T19:03:11.954Z",
+    "score": null,
+    "metadata": {}
+  },
+  {
+    "id": "17767118161515ybk4yjf7",
+    "createdAt": "2026-04-20T19:03:36.151Z",
+    "updatedAt": "2026-04-20T19:03:36.151Z",
+    "userId": "1776068942375dtc3bzjfq",
+    "activityType": "coach_interaction",
+    "activityData": {
+      "topic": "career",
+      "sentiment": "neutral",
+      "complexity": "complex"
+    },
+    "timestamp": "2026-04-20T19:03:36.150Z",
+    "score": null,
+    "metadata": {}
+  },
+  {
+    "id": "1776712195571fyqyrlz0a",
+    "createdAt": "2026-04-20T19:09:55.571Z",
+    "updatedAt": "2026-04-20T19:09:55.571Z",
+    "userId": "1776704552868t56wziodc",
+    "activityType": "coach_interaction",
+    "activityData": {
+      "topic": "general",
+      "sentiment": "neutral",
+      "complexity": "complex"
+    },
+    "timestamp": "2026-04-20T19:09:55.571Z",
+    "score": null,
+    "metadata": {}
+  },
+  {
+    "id": "1776712200874yp4ifdoop",
+    "createdAt": "2026-04-20T19:10:00.874Z",
+    "updatedAt": "2026-04-20T19:10:00.874Z",
+    "userId": "1776068942375dtc3bzjfq",
+    "activityType": "coach_interaction",
+    "activityData": {
+      "topic": "career",
+      "sentiment": "neutral",
+      "complexity": "complex"
+    },
+    "timestamp": "2026-04-20T19:10:00.874Z",
+    "score": null,
+    "metadata": {}
+  },
+  {
+    "id": "1776716359200mxsrfjjl1",
+    "createdAt": "2026-04-20T20:19:19.200Z",
+    "updatedAt": "2026-04-20T20:19:19.200Z",
+    "userId": "1776716298396ae385tis3",
+    "activityType": "coach_interaction",
+    "activityData": {
+      "topic": "general",
+      "sentiment": "neutral",
+      "complexity": "simple"
+    },
+    "timestamp": "2026-04-20T20:19:19.199Z",
+    "score": null,
+    "metadata": {}
+  },
+  {
+    "id": "17767320377182wkwzgqfp",
+    "createdAt": "2026-04-21T00:40:37.718Z",
+    "updatedAt": "2026-04-21T00:40:37.718Z",
+    "userId": "17767319993353k2tx93za",
+    "activityType": "coach_interaction",
+    "activityData": {
+      "topic": "general",
+      "sentiment": "neutral",
+      "complexity": "simple"
+    },
+    "timestamp": "2026-04-21T00:40:37.717Z",
+    "score": null,
+    "metadata": {}
+  },
+  {
+    "id": "1776732635821m3j3xcs7f",
+    "createdAt": "2026-04-21T00:50:35.821Z",
+    "updatedAt": "2026-04-21T00:50:35.821Z",
+    "userId": "1776732609774mkb532qhx",
+    "activityType": "coach_interaction",
+    "activityData": {
+      "topic": "general",
+      "sentiment": "neutral",
+      "complexity": "simple"
+    },
+    "timestamp": "2026-04-21T00:50:35.820Z",
+    "score": null,
+    "metadata": {}
+  },
+  {
+    "id": "1776732756053zbsj089he",
+    "createdAt": "2026-04-21T00:52:36.053Z",
+    "updatedAt": "2026-04-21T00:52:36.053Z",
+    "userId": "1776732734271dq5lj2nmh",
+    "activityType": "coach_interaction",
+    "activityData": {
+      "topic": "general",
+      "sentiment": "neutral",
+      "complexity": "simple"
+    },
+    "timestamp": "2026-04-21T00:52:36.052Z",
+    "score": null,
+    "metadata": {}
+  },
+  {
+    "id": "1776732780588fljs3crs9",
+    "createdAt": "2026-04-21T00:53:00.588Z",
+    "updatedAt": "2026-04-21T00:53:00.588Z",
+    "userId": "1776732778380am9pmi2z3",
+    "activityType": "coach_interaction",
+    "activityData": {
+      "topic": "general",
+      "sentiment": "neutral",
+      "complexity": "simple"
+    },
+    "timestamp": "2026-04-21T00:53:00.587Z",
+    "score": null,
+    "metadata": {}
+  },
+  {
+    "id": "17767407872930chevqmmq",
+    "createdAt": "2026-04-21T03:06:27.293Z",
+    "updatedAt": "2026-04-21T03:06:27.293Z",
+    "userId": "1776718606169ofknat01x",
+    "activityType": "coach_interaction",
+    "activityData": {
+      "topic": "housing",
+      "sentiment": "neutral",
+      "complexity": "simple"
+    },
+    "timestamp": "2026-04-21T03:06:27.292Z",
+    "score": null,
+    "metadata": {}
+  },
+  {
+    "id": "1776742016006vt88lblkv",
+    "createdAt": "2026-04-21T03:26:56.006Z",
+    "updatedAt": "2026-04-21T03:26:56.006Z",
+    "userId": "1776718606169ofknat01x",
+    "activityType": "document_analyzed",
+    "activityData": {
+      "documentType": "general",
+      "complexity": "high"
+    },
+    "timestamp": "2026-04-21T03:26:56.005Z",
+    "score": null,
+    "metadata": {}
+  },
+  {
+    "id": "1776744209484yyprnxmxe",
+    "createdAt": "2026-04-21T04:03:29.484Z",
+    "updatedAt": "2026-04-21T04:03:29.484Z",
+    "userId": "17767441868290uyv6lorw",
+    "activityType": "coach_interaction",
+    "activityData": {
+      "topic": "housing",
+      "sentiment": "neutral",
+      "complexity": "complex"
+    },
+    "timestamp": "2026-04-21T04:03:29.483Z",
+    "score": null,
+    "metadata": {}
+  },
+  {
+    "id": "17767444209587mopzu70j",
+    "createdAt": "2026-04-21T04:07:00.958Z",
+    "updatedAt": "2026-04-21T04:07:00.958Z",
+    "userId": "1776744393477z8uupnt0j",
+    "activityType": "coach_interaction",
+    "activityData": {
+      "topic": "housing",
+      "sentiment": "neutral",
+      "complexity": "complex"
+    },
+    "timestamp": "2026-04-21T04:07:00.958Z",
+    "score": null,
+    "metadata": {}
+  },
+  {
+    "id": "1776744527983buv44tgcb",
+    "createdAt": "2026-04-21T04:08:47.983Z",
+    "updatedAt": "2026-04-21T04:08:47.983Z",
+    "userId": "1776744393477z8uupnt0j",
+    "activityType": "document_analyzed",
+    "activityData": {
+      "documentType": "lease",
+      "complexity": "low"
+    },
+    "timestamp": "2026-04-21T04:08:47.983Z",
+    "score": null,
+    "metadata": {}
+  },
+  {
+    "id": "1776745496860mgdw12n4k",
+    "createdAt": "2026-04-21T04:24:56.860Z",
+    "updatedAt": "2026-04-21T04:24:56.860Z",
+    "userId": "1776718606169ofknat01x",
+    "activityType": "document_analyzed",
+    "activityData": {
+      "documentType": "general",
+      "complexity": "high"
+    },
+    "timestamp": "2026-04-21T04:24:56.860Z",
+    "score": null,
+    "metadata": {}
+  },
+  {
+    "id": "17767455138973mbv69h8h",
+    "createdAt": "2026-04-21T04:25:13.897Z",
+    "updatedAt": "2026-04-21T04:25:13.897Z",
+    "userId": "1776718606169ofknat01x",
+    "activityType": "document_analyzed",
+    "activityData": {
+      "documentType": "general",
+      "complexity": "low"
+    },
+    "timestamp": "2026-04-21T04:25:13.896Z",
+    "score": null,
+    "metadata": {}
+  },
+  {
+    "id": "17767523380870hw31gtzj",
+    "createdAt": "2026-04-21T06:18:58.087Z",
+    "updatedAt": "2026-04-21T06:18:58.087Z",
+    "userId": "17767515205505n7j7i8ku",
+    "activityType": "coach_interaction",
+    "activityData": {
+      "topic": "housing",
+      "sentiment": "neutral",
+      "complexity": "simple"
+    },
+    "timestamp": "2026-04-21T06:18:58.086Z",
+    "score": null,
+    "metadata": {}
+  },
+  {
+    "id": "1776752372848cs9l7utli",
+    "createdAt": "2026-04-21T06:19:32.848Z",
+    "updatedAt": "2026-04-21T06:19:32.848Z",
+    "userId": "17767515205505n7j7i8ku",
+    "activityType": "document_analyzed",
+    "activityData": {
+      "documentType": "lease",
+      "complexity": "high"
+    },
+    "timestamp": "2026-04-21T06:19:32.848Z",
+    "score": null,
+    "metadata": {}
+  },
+  {
+    "id": "1776752403677m14cfeanw",
+    "createdAt": "2026-04-21T06:20:03.677Z",
+    "updatedAt": "2026-04-21T06:20:03.677Z",
+    "userId": "17767515205505n7j7i8ku",
+    "activityType": "document_analyzed",
+    "activityData": {
+      "documentType": "lease",
+      "complexity": "low"
+    },
+    "timestamp": "2026-04-21T06:20:03.677Z",
+    "score": null,
+    "metadata": {}
+  },
+  {
+    "id": "1776752412800dkboonj5n",
+    "createdAt": "2026-04-21T06:20:12.800Z",
+    "updatedAt": "2026-04-21T06:20:12.800Z",
+    "userId": "17767515205505n7j7i8ku",
+    "activityType": "document_analyzed",
+    "activityData": {
+      "documentType": "general",
+      "complexity": "high"
+    },
+    "timestamp": "2026-04-21T06:20:12.800Z",
+    "score": null,
+    "metadata": {}
+  },
+  {
+    "id": "1776752425494jz14spbec",
+    "createdAt": "2026-04-21T06:20:25.494Z",
+    "updatedAt": "2026-04-21T06:20:25.494Z",
+    "userId": "17767515205505n7j7i8ku",
+    "activityType": "document_analyzed",
+    "activityData": {
+      "documentType": "general",
+      "complexity": "low"
+    },
+    "timestamp": "2026-04-21T06:20:25.493Z",
+    "score": null,
+    "metadata": {}
+  }
+]

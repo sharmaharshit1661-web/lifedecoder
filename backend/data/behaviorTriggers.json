@@ -1,0 +1,200 @@
+[
+  {
+    "id": "1776711360091kblmksal9",
+    "createdAt": "2026-04-20T18:56:00.091Z",
+    "updatedAt": "2026-04-20T18:56:00.091Z",
+    "userId": "1776711180809nnwbkyshe",
+    "triggerType": "inactivity_reminder",
+    "message": "We miss you! Come back and continue your learning journey.",
+    "priority": "low",
+    "originalEvent": "coach_interaction",
+    "timestamp": "2026-04-20T18:56:00.090Z"
+  },
+  {
+    "id": "1776711791954gpxf3dq1x",
+    "createdAt": "2026-04-20T19:03:11.954Z",
+    "updatedAt": "2026-04-20T19:03:11.954Z",
+    "userId": "1776704552868t56wziodc",
+    "triggerType": "inactivity_reminder",
+    "message": "We miss you! Come back and continue your learning journey.",
+    "priority": "low",
+    "originalEvent": "coach_interaction",
+    "timestamp": "2026-04-20T19:03:11.953Z"
+  },
+  {
+    "id": "17767118161499m960obwr",
+    "createdAt": "2026-04-20T19:03:36.149Z",
+    "updatedAt": "2026-04-20T19:03:36.149Z",
+    "userId": "1776068942375dtc3bzjfq",
+    "triggerType": "inactivity_reminder",
+    "message": "We miss you! Come back and continue your learning journey.",
+    "priority": "low",
+    "originalEvent": "coach_interaction",
+    "timestamp": "2026-04-20T19:03:36.149Z"
+  },
+  {
+    "id": "1776716359196ubqg7zrp0",
+    "createdAt": "2026-04-20T20:19:19.196Z",
+    "updatedAt": "2026-04-20T20:19:19.196Z",
+    "userId": "1776716298396ae385tis3",
+    "triggerType": "inactivity_reminder",
+    "message": "We miss you! Come back and continue your learning journey.",
+    "priority": "low",
+    "originalEvent": "coach_interaction",
+    "timestamp": "2026-04-20T20:19:19.196Z"
+  },
+  {
+    "id": "17767320377153xm23oq9v",
+    "createdAt": "2026-04-21T00:40:37.715Z",
+    "updatedAt": "2026-04-21T00:40:37.715Z",
+    "userId": "17767319993353k2tx93za",
+    "triggerType": "inactivity_reminder",
+    "message": "We miss you! Come back and continue your learning journey.",
+    "priority": "low",
+    "originalEvent": "coach_interaction",
+    "timestamp": "2026-04-21T00:40:37.714Z"
+  },
+  {
+    "id": "1776732635819zlchjkkvi",
+    "createdAt": "2026-04-21T00:50:35.819Z",
+    "updatedAt": "2026-04-21T00:50:35.819Z",
+    "userId": "1776732609774mkb532qhx",
+    "triggerType": "inactivity_reminder",
+    "message": "We miss you! Come back and continue your learning journey.",
+    "priority": "low",
+    "originalEvent": "coach_interaction",
+    "timestamp": "2026-04-21T00:50:35.819Z"
+  },
+  {
+    "id": "1776732756049xruy341m0",
+    "createdAt": "2026-04-21T00:52:36.049Z",
+    "updatedAt": "2026-04-21T00:52:36.049Z",
+    "userId": "1776732734271dq5lj2nmh",
+    "triggerType": "inactivity_reminder",
+    "message": "We miss you! Come back and continue your learning journey.",
+    "priority": "low",
+    "originalEvent": "coach_interaction",
+    "timestamp": "2026-04-21T00:52:36.049Z"
+  },
+  {
+    "id": "1776732780586zlpjzbb3i",
+    "createdAt": "2026-04-21T00:53:00.586Z",
+    "updatedAt": "2026-04-21T00:53:00.586Z",
+    "userId": "1776732778380am9pmi2z3",
+    "triggerType": "inactivity_reminder",
+    "message": "We miss you! Come back and continue your learning journey.",
+    "priority": "low",
+    "originalEvent": "coach_interaction",
+    "timestamp": "2026-04-21T00:53:00.586Z"
+  },
+  {
+    "id": "1776740787289dmpebrc5f",
+    "createdAt": "2026-04-21T03:06:27.289Z",
+    "updatedAt": "2026-04-21T03:06:27.289Z",
+    "userId": "1776718606169ofknat01x",
+    "triggerType": "inactivity_reminder",
+    "message": "We miss you! Come back and continue your learning journey.",
+    "priority": "low",
+    "originalEvent": "coach_interaction",
+    "timestamp": "2026-04-21T03:06:27.289Z"
+  },
+  {
+    "id": "1776744209481aab8e9r7i",
+    "createdAt": "2026-04-21T04:03:29.481Z",
+    "updatedAt": "2026-04-21T04:03:29.481Z",
+    "userId": "17767441868290uyv6lorw",
+    "triggerType": "inactivity_reminder",
+    "message": "We miss you! Come back and continue your learning journey.",
+    "priority": "low",
+    "originalEvent": "coach_interaction",
+    "timestamp": "2026-04-21T04:03:29.481Z"
+  },
+  {
+    "id": "17767444209552rugjv9mx",
+    "createdAt": "2026-04-21T04:07:00.955Z",
+    "updatedAt": "2026-04-21T04:07:00.955Z",
+    "userId": "1776744393477z8uupnt0j",
+    "triggerType": "inactivity_reminder",
+    "message": "We miss you! Come back and continue your learning journey.",
+    "priority": "low",
+    "originalEvent": "coach_interaction",
+    "timestamp": "2026-04-21T04:07:00.955Z"
+  },
+  {
+    "id": "1776745496859sidzb3xs3",
+    "createdAt": "2026-04-21T04:24:56.859Z",
+    "updatedAt": "2026-04-21T04:24:56.859Z",
+    "userId": "1776718606169ofknat01x",
+    "triggerType": "exploration_encouragement",
+    "message": "Exploring new areas? That's great for well-rounded learning!",
+    "priority": "low",
+    "originalEvent": "document_uploaded",
+    "timestamp": "2026-04-21T04:24:56.859Z"
+  },
+  {
+    "id": "1776745513894f7l0kxrq5",
+    "createdAt": "2026-04-21T04:25:13.894Z",
+    "updatedAt": "2026-04-21T04:25:13.894Z",
+    "userId": "1776718606169ofknat01x",
+    "triggerType": "exploration_encouragement",
+    "message": "Exploring new areas? That's great for well-rounded learning!",
+    "priority": "low",
+    "originalEvent": "document_decoded",
+    "timestamp": "2026-04-21T04:25:13.894Z"
+  },
+  {
+    "id": "1776752338083l8pi68q4m",
+    "createdAt": "2026-04-21T06:18:58.083Z",
+    "updatedAt": "2026-04-21T06:18:58.083Z",
+    "userId": "17767515205505n7j7i8ku",
+    "triggerType": "inactivity_reminder",
+    "message": "We miss you! Come back and continue your learning journey.",
+    "priority": "low",
+    "originalEvent": "coach_interaction",
+    "timestamp": "2026-04-21T06:18:58.083Z"
+  },
+  {
+    "id": "1776752372847sdh7m213t",
+    "createdAt": "2026-04-21T06:19:32.847Z",
+    "updatedAt": "2026-04-21T06:19:32.847Z",
+    "userId": "17767515205505n7j7i8ku",
+    "triggerType": "exploration_encouragement",
+    "message": "Exploring new areas? That's great for well-rounded learning!",
+    "priority": "low",
+    "originalEvent": "document_uploaded",
+    "timestamp": "2026-04-21T06:19:32.846Z"
+  },
+  {
+    "id": "1776752403675gf0wdfkza",
+    "createdAt": "2026-04-21T06:20:03.675Z",
+    "updatedAt": "2026-04-21T06:20:03.675Z",
+    "userId": "17767515205505n7j7i8ku",
+    "triggerType": "exploration_encouragement",
+    "message": "Exploring new areas? That's great for well-rounded learning!",
+    "priority": "low",
+    "originalEvent": "document_decoded",
+    "timestamp": "2026-04-21T06:20:03.675Z"
+  },
+  {
+    "id": "1776752412799a8vpcbf2e",
+    "createdAt": "2026-04-21T06:20:12.799Z",
+    "updatedAt": "2026-04-21T06:20:12.799Z",
+    "userId": "17767515205505n7j7i8ku",
+    "triggerType": "exploration_encouragement",
+    "message": "Exploring new areas? That's great for well-rounded learning!",
+    "priority": "low",
+    "originalEvent": "document_uploaded",
+    "timestamp": "2026-04-21T06:20:12.799Z"
+  },
+  {
+    "id": "1776752425492xdeudt6aq",
+    "createdAt": "2026-04-21T06:20:25.492Z",
+    "updatedAt": "2026-04-21T06:20:25.492Z",
+    "userId": "17767515205505n7j7i8ku",
+    "triggerType": "exploration_encouragement",
+    "message": "Exploring new areas? That's great for well-rounded learning!",
+    "priority": "low",
+    "originalEvent": "document_decoded",
+    "timestamp": "2026-04-21T06:20:25.491Z"
+  }
+]

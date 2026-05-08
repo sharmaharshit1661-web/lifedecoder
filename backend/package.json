@@ -1,0 +1,35 @@
+{
+  "name": "lifedecoder-backend",
+  "version": "2.0.0",
+  "description": "AdultIQ AI Platform with RAG and Personalization",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon --env-file=.env src/server.js",
+    "start": "node src/server.js",
+    "setup-db": "node scripts/setup-database.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.20.0",
+    "bcryptjs": "^2.4.3",
+    "cohere-ai": "^7.7.5",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.22.1",
+    "express-validator": "^7.0.1",
+    "jsonwebtoken": "^9.0.2",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.4",
+    "mongoose": "^8.0.0",
+    "multer": "^1.4.5-lts.1",
+    "openai": "^4.28.0",
+    "pdf-parse": "^1.1.1",
+    "pg": "^8.11.3",
+    "pgvector": "^0.1.8",
+    "tiktoken": "^1.0.10",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}

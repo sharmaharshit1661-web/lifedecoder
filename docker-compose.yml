@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  pgvector:
+    image: ankane/pgvector:latest
+    container_name: adultiq_pgvector
+    environment:
+      POSTGRES_USER: adultiq_user
+      POSTGRES_PASSWORD: adultiq_password
+      POSTGRES_DB: adultiq_db
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgvector_data:/var/lib/postgresql/data
+    restart: unless-stopped
+
+volumes:
+  pgvector_data:

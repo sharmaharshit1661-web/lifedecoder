@@ -1,0 +1,559 @@
+[
+  {
+    "userId": "17767064055764ku16h4tu",
+    "age": null,
+    "income": null,
+    "employmentStatus": "student",
+    "livingSituation": "renting",
+    "financialGoals": [],
+    "knowledgeLevel": "beginner",
+    "riskTolerance": "moderate",
+    "adultIqScore": 9,
+    "profileData": {
+      "activityCount": 0,
+      "completedModules": [],
+      "simulationScores": {},
+      "preferences": {
+        "communicationStyle": "simple"
+      },
+      "learningStyle": "visual",
+      "topicInterests": [],
+      "skillLevels": {
+        "legal_awareness": 5
+      },
+      "behaviorPatterns": {
+        "lastUpdated": "2026-04-20T17:41:47.432Z",
+        "engagementLevel": "low",
+        "peakActivityHour": 0,
+        "learningVelocity": 0
+      },
+      "interactionTopics": {
+        "finance": 1
+      },
+      "documentExperience": {
+        "lease": 1
+      }
+    },
+    "lastUpdated": "2026-04-20T17:41:47.433Z"
+  },
+  {
+    "userId": "1776707139083hqdelb9u3",
+    "age": null,
+    "income": null,
+    "employmentStatus": "student",
+    "livingSituation": "renting",
+    "financialGoals": [],
+    "knowledgeLevel": "beginner",
+    "riskTolerance": "moderate",
+    "adultIqScore": 9,
+    "profileData": {
+      "activityCount": 0,
+      "completedModules": [],
+      "simulationScores": {},
+      "preferences": {},
+      "learningStyle": "visual",
+      "topicInterests": [],
+      "skillLevels": {
+        "legal_awareness": 5
+      },
+      "behaviorPatterns": {
+        "lastUpdated": "2026-04-20T17:49:46.605Z",
+        "engagementLevel": "low",
+        "peakActivityHour": 0,
+        "learningVelocity": 0
+      },
+      "interactionTopics": {
+        "education": 1
+      },
+      "documentExperience": {
+        "lease": 1
+      }
+    },
+    "lastUpdated": "2026-04-20T17:49:46.607Z"
+  },
+  {
+    "userId": "177671053777087ukfmlxz",
+    "age": null,
+    "income": null,
+    "employmentStatus": "student",
+    "livingSituation": "with_parents",
+    "financialGoals": [],
+    "knowledgeLevel": "beginner",
+    "riskTolerance": "moderate",
+    "adultIqScore": 0,
+    "profileData": {
+      "activityCount": 0,
+      "completedModules": [],
+      "simulationScores": {},
+      "preferences": {
+        "communicationStyle": "simple"
+      },
+      "learningStyle": "visual",
+      "topicInterests": [],
+      "skillLevels": {
+        "legal_awareness": 5
+      },
+      "behaviorPatterns": {
+        "lastUpdated": "2026-04-20T18:52:45.574Z",
+        "engagementLevel": "low",
+        "peakActivityHour": 0,
+        "learningVelocity": 0
+      },
+      "interactionTopics": {
+        "finance": 2
+      },
+      "documentExperience": {
+        "contract": 1
+      }
+    },
+    "lastUpdated": "2026-04-20T18:52:45.575Z"
+  },
+  {
+    "userId": "1776711180809nnwbkyshe",
+    "age": null,
+    "income": null,
+    "employmentStatus": "student",
+    "livingSituation": "with_parents",
+    "financialGoals": [],
+    "knowledgeLevel": "beginner",
+    "riskTolerance": "moderate",
+    "adultIqScore": 0,
+    "profileData": {
+      "activityCount": 0,
+      "completedModules": [],
+      "simulationScores": {},
+      "preferences": {
+        "communicationStyle": "simple"
+      },
+      "learningStyle": "visual",
+      "topicInterests": [],
+      "skillLevels": {},
+      "behaviorPatterns": {
+        "lastUpdated": "2026-04-20T18:56:00.090Z",
+        "engagementLevel": "low",
+        "peakActivityHour": 0,
+        "learningVelocity": 0
+      },
+      "interactionTopics": {
+        "general": 1,
+        "finance": 2
+      }
+    },
+    "lastUpdated": "2026-04-20T18:56:00.091Z"
+  },
+  {
+    "userId": "1776704552868t56wziodc",
+    "age": null,
+    "income": null,
+    "employmentStatus": "student",
+    "livingSituation": "with_parents",
+    "financialGoals": [],
+    "knowledgeLevel": "beginner",
+    "riskTolerance": "moderate",
+    "adultIqScore": 0,
+    "profileData": {
+      "activityCount": 0,
+      "completedModules": [],
+      "simulationScores": {},
+      "preferences": {},
+      "learningStyle": "visual",
+      "topicInterests": [],
+      "skillLevels": {},
+      "behaviorPatterns": {
+        "lastUpdated": "2026-04-20T19:09:55.569Z"
+      },
+      "interactionTopics": {
+        "legal": 1,
+        "general": 1
+      }
+    },
+    "lastUpdated": "2026-04-20T19:09:55.571Z"
+  },
+  {
+    "userId": "1776068942375dtc3bzjfq",
+    "age": null,
+    "income": null,
+    "employmentStatus": "student",
+    "livingSituation": "with_parents",
+    "financialGoals": [],
+    "knowledgeLevel": "beginner",
+    "riskTolerance": "moderate",
+    "adultIqScore": 0,
+    "profileData": {
+      "activityCount": 0,
+      "completedModules": [],
+      "simulationScores": {},
+      "preferences": {},
+      "learningStyle": "visual",
+      "topicInterests": [],
+      "skillLevels": {},
+      "behaviorPatterns": {
+        "lastUpdated": "2026-04-20T19:10:00.872Z"
+      },
+      "interactionTopics": {
+        "career": 2
+      }
+    },
+    "lastUpdated": "2026-04-20T19:10:00.873Z"
+  },
+  {
+    "userId": "1776716298396ae385tis3",
+    "age": null,
+    "income": null,
+    "employmentStatus": "student",
+    "livingSituation": "with_parents",
+    "financialGoals": [],
+    "knowledgeLevel": "beginner",
+    "riskTolerance": "moderate",
+    "adultIqScore": 0,
+    "profileData": {
+      "activityCount": 0,
+      "completedModules": [],
+      "simulationScores": {},
+      "preferences": {
+        "communicationStyle": "simple"
+      },
+      "learningStyle": "visual",
+      "topicInterests": [],
+      "skillLevels": {},
+      "behaviorPatterns": {
+        "lastUpdated": "2026-04-20T20:19:19.195Z",
+        "engagementLevel": "low",
+        "peakActivityHour": 0,
+        "learningVelocity": 0
+      },
+      "interactionTopics": {
+        "general": 1
+      }
+    },
+    "lastUpdated": "2026-04-20T20:19:19.197Z"
+  },
+  {
+    "userId": "17767319993353k2tx93za",
+    "age": null,
+    "income": null,
+    "employmentStatus": "student",
+    "livingSituation": "with_parents",
+    "financialGoals": [],
+    "knowledgeLevel": "beginner",
+    "riskTolerance": "moderate",
+    "adultIqScore": 0,
+    "profileData": {
+      "activityCount": 0,
+      "completedModules": [],
+      "simulationScores": {},
+      "preferences": {
+        "communicationStyle": "simple"
+      },
+      "learningStyle": "visual",
+      "topicInterests": [],
+      "skillLevels": {},
+      "behaviorPatterns": {
+        "lastUpdated": "2026-04-21T00:40:37.713Z",
+        "engagementLevel": "low",
+        "peakActivityHour": 0,
+        "learningVelocity": 0
+      },
+      "interactionTopics": {
+        "general": 1
+      }
+    },
+    "lastUpdated": "2026-04-21T00:40:37.716Z"
+  },
+  {
+    "userId": "1776732609774mkb532qhx",
+    "age": null,
+    "income": null,
+    "employmentStatus": "student",
+    "livingSituation": "with_parents",
+    "financialGoals": [],
+    "knowledgeLevel": "beginner",
+    "riskTolerance": "moderate",
+    "adultIqScore": 0,
+    "profileData": {
+      "activityCount": 0,
+      "completedModules": [],
+      "simulationScores": {},
+      "preferences": {
+        "communicationStyle": "simple"
+      },
+      "learningStyle": "visual",
+      "topicInterests": [],
+      "skillLevels": {},
+      "behaviorPatterns": {
+        "lastUpdated": "2026-04-21T00:50:35.818Z",
+        "engagementLevel": "low",
+        "peakActivityHour": 0,
+        "learningVelocity": 0
+      },
+      "interactionTopics": {
+        "general": 1
+      }
+    },
+    "lastUpdated": "2026-04-21T00:50:35.820Z"
+  },
+  {
+    "userId": "1776732734271dq5lj2nmh",
+    "age": null,
+    "income": null,
+    "employmentStatus": "student",
+    "livingSituation": "with_parents",
+    "financialGoals": [],
+    "knowledgeLevel": "beginner",
+    "riskTolerance": "moderate",
+    "adultIqScore": 0,
+    "profileData": {
+      "activityCount": 0,
+      "completedModules": [],
+      "simulationScores": {},
+      "preferences": {
+        "communicationStyle": "simple"
+      },
+      "learningStyle": "visual",
+      "topicInterests": [],
+      "skillLevels": {},
+      "behaviorPatterns": {
+        "lastUpdated": "2026-04-21T00:52:36.047Z",
+        "engagementLevel": "low",
+        "peakActivityHour": 0,
+        "learningVelocity": 0
+      },
+      "interactionTopics": {
+        "general": 1
+      }
+    },
+    "lastUpdated": "2026-04-21T00:52:36.050Z"
+  },
+  {
+    "userId": "1776732778380am9pmi2z3",
+    "age": null,
+    "income": null,
+    "employmentStatus": "student",
+    "livingSituation": "with_parents",
+    "financialGoals": [],
+    "knowledgeLevel": "beginner",
+    "riskTolerance": "moderate",
+    "adultIqScore": 0,
+    "profileData": {
+      "activityCount": 0,
+      "completedModules": [],
+      "simulationScores": {},
+      "preferences": {
+        "communicationStyle": "simple"
+      },
+      "learningStyle": "visual",
+      "topicInterests": [],
+      "skillLevels": {},
+      "behaviorPatterns": {
+        "lastUpdated": "2026-04-21T00:53:00.585Z",
+        "engagementLevel": "low",
+        "peakActivityHour": 0,
+        "learningVelocity": 0
+      },
+      "interactionTopics": {
+        "general": 1
+      }
+    },
+    "lastUpdated": "2026-04-21T00:53:00.587Z"
+  },
+  {
+    "userId": "1776718606169ofknat01x",
+    "age": null,
+    "income": null,
+    "employmentStatus": "student",
+    "livingSituation": "with_parents",
+    "financialGoals": [],
+    "knowledgeLevel": "beginner",
+    "riskTolerance": "moderate",
+    "adultIqScore": 0,
+    "profileData": {
+      "activityCount": 0,
+      "completedModules": [],
+      "simulationScores": {},
+      "preferences": {
+        "communicationStyle": "simple"
+      },
+      "learningStyle": "visual",
+      "topicInterests": [],
+      "skillLevels": {
+        "legal_awareness": 15
+      },
+      "behaviorPatterns": {
+        "lastUpdated": "2026-04-21T04:25:13.893Z",
+        "engagementLevel": "low",
+        "peakActivityHour": 8,
+        "learningVelocity": 0
+      },
+      "interactionTopics": {
+        "housing": 1
+      },
+      "documentExperience": {
+        "general": 3
+      }
+    },
+    "lastUpdated": "2026-04-21T04:25:13.895Z"
+  },
+  {
+    "userId": "1776743575821qyrqvlfid",
+    "age": null,
+    "income": null,
+    "employmentStatus": "student",
+    "livingSituation": "with_parents",
+    "financialGoals": [],
+    "knowledgeLevel": "beginner",
+    "riskTolerance": "moderate",
+    "adultIqScore": 0,
+    "profileData": {
+      "activityCount": 0,
+      "completedModules": [],
+      "simulationScores": {},
+      "preferences": {},
+      "learningStyle": "visual",
+      "topicInterests": [],
+      "skillLevels": {}
+    },
+    "lastUpdated": "2026-04-21T03:52:56.264Z"
+  },
+  {
+    "userId": "17767437665023i3x9wx5r",
+    "age": null,
+    "income": null,
+    "employmentStatus": "student",
+    "livingSituation": "with_parents",
+    "financialGoals": [],
+    "knowledgeLevel": "beginner",
+    "riskTolerance": "moderate",
+    "adultIqScore": 0,
+    "profileData": {
+      "activityCount": 0,
+      "completedModules": [],
+      "simulationScores": {},
+      "preferences": {},
+      "learningStyle": "visual",
+      "topicInterests": [],
+      "skillLevels": {}
+    },
+    "lastUpdated": "2026-04-21T03:56:06.723Z"
+  },
+  {
+    "userId": "17767439692468qrj7wcuu",
+    "age": null,
+    "income": null,
+    "employmentStatus": "student",
+    "livingSituation": "with_parents",
+    "financialGoals": [],
+    "knowledgeLevel": "beginner",
+    "riskTolerance": "moderate",
+    "adultIqScore": 0,
+    "profileData": {
+      "activityCount": 0,
+      "completedModules": [],
+      "simulationScores": {},
+      "preferences": {},
+      "learningStyle": "visual",
+      "topicInterests": [],
+      "skillLevels": {}
+    },
+    "lastUpdated": "2026-04-21T03:59:29.565Z"
+  },
+  {
+    "userId": "17767441868290uyv6lorw",
+    "age": null,
+    "income": null,
+    "employmentStatus": "student",
+    "livingSituation": "with_parents",
+    "financialGoals": [],
+    "knowledgeLevel": "beginner",
+    "riskTolerance": "moderate",
+    "adultIqScore": 0,
+    "profileData": {
+      "activityCount": 0,
+      "completedModules": [],
+      "simulationScores": {},
+      "preferences": {},
+      "learningStyle": "visual",
+      "topicInterests": [],
+      "skillLevels": {},
+      "behaviorPatterns": {
+        "lastUpdated": "2026-04-21T04:03:29.480Z",
+        "engagementLevel": "low",
+        "peakActivityHour": 0,
+        "learningVelocity": 0
+      },
+      "interactionTopics": {
+        "housing": 1
+      }
+    },
+    "lastUpdated": "2026-04-21T04:03:29.482Z"
+  },
+  {
+    "userId": "1776744393477z8uupnt0j",
+    "age": null,
+    "income": null,
+    "employmentStatus": "student",
+    "livingSituation": "renting",
+    "financialGoals": [],
+    "knowledgeLevel": "beginner",
+    "riskTolerance": "moderate",
+    "adultIqScore": 0,
+    "profileData": {
+      "activityCount": 0,
+      "completedModules": [],
+      "simulationScores": {},
+      "preferences": {},
+      "learningStyle": "visual",
+      "topicInterests": [],
+      "skillLevels": {
+        "legal_awareness": 5
+      },
+      "behaviorPatterns": {
+        "lastUpdated": "2026-04-21T04:08:47.980Z"
+      },
+      "interactionTopics": {
+        "housing": 1
+      },
+      "documentExperience": {
+        "lease": 1
+      }
+    },
+    "lastUpdated": "2026-04-21T04:08:47.982Z"
+  },
+  {
+    "userId": "17767515205505n7j7i8ku",
+    "age": null,
+    "income": null,
+    "employmentStatus": "student",
+    "livingSituation": "renting",
+    "financialGoals": [],
+    "knowledgeLevel": "beginner",
+    "riskTolerance": "moderate",
+    "lifeDecoderScore": 0,
+    "profileData": {
+      "activityCount": 0,
+      "completedModules": [],
+      "simulationScores": {},
+      "preferences": {
+        "communicationStyle": "simple"
+      },
+      "learningStyle": "visual",
+      "topicInterests": [],
+      "skillLevels": {
+        "legal_awareness": 20
+      },
+      "behaviorPatterns": {
+        "lastUpdated": "2026-04-21T06:20:25.490Z",
+        "engagementLevel": "low",
+        "peakActivityHour": 11,
+        "learningVelocity": 0
+      },
+      "interactionTopics": {
+        "housing": 1
+      },
+      "documentExperience": {
+        "lease": 2,
+        "general": 2
+      }
+    },
+    "lastUpdated": "2026-04-21T06:20:25.493Z"
+  }
+]

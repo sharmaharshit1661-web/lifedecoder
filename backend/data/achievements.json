@@ -1,0 +1,202 @@
+[
+  {
+    "id": "17767186738727wh6muusr",
+    "createdAt": "2026-04-20T20:57:53.872Z",
+    "updatedAt": "2026-04-20T20:57:53.872Z",
+    "userId": "1776718606169ofknat01x",
+    "badgeName": "First Steps",
+    "badgeType": "first-steps",
+    "description": "Complete your first quiz",
+    "earnedAt": "2026-04-20T20:57:53.872Z"
+  },
+  {
+    "id": "1776721637981rehd17cwi",
+    "createdAt": "2026-04-20T21:47:17.981Z",
+    "updatedAt": "2026-04-20T21:47:17.981Z",
+    "userId": "1776721637422ruardoslh",
+    "badgeName": "First Steps",
+    "badgeType": "first-steps",
+    "description": "Complete your first quiz",
+    "earnedAt": "2026-04-20T21:47:17.981Z"
+  },
+  {
+    "id": "1776739247413p0wqfc12s",
+    "createdAt": "2026-04-21T02:40:47.413Z",
+    "updatedAt": "2026-04-21T02:40:47.413Z",
+    "userId": "1776718606169ofknat01x",
+    "badgeName": "Level 2 Reached",
+    "badgeType": "level-up",
+    "description": "Reached level 2!",
+    "earnedAt": "2026-04-21T02:40:47.413Z"
+  },
+  {
+    "id": "1776739250329dktd6x86r",
+    "createdAt": "2026-04-21T02:40:50.330Z",
+    "updatedAt": "2026-04-21T02:40:50.330Z",
+    "userId": "1776718606169ofknat01x",
+    "badgeName": "Finance & Money Master",
+    "badgeType": "chapter-complete",
+    "description": "Completed all levels in Finance & Money",
+    "earnedAt": "2026-04-21T02:40:50.329Z"
+  },
+  {
+    "id": "1776752327410ftx4s0h83",
+    "createdAt": "2026-04-21T06:18:47.410Z",
+    "updatedAt": "2026-04-21T06:18:47.410Z",
+    "userId": "17767515205505n7j7i8ku",
+    "badgeName": "First Steps",
+    "badgeType": "first-steps",
+    "description": "Complete your first quiz",
+    "earnedAt": "2026-04-21T06:18:47.409Z"
+  },
+  {
+    "id": "1776875423813vlw9zut8j",
+    "createdAt": "2026-04-22T16:30:23.813Z",
+    "updatedAt": "2026-04-22T16:30:23.813Z",
+    "userId": "17768753875307cvbwc8rj",
+    "badgeName": "First Steps",
+    "badgeType": "first-steps",
+    "description": "Complete your first quiz",
+    "earnedAt": "2026-04-22T16:30:23.813Z"
+  },
+  {
+    "id": "17769310544741mt5epxr4",
+    "createdAt": "2026-04-23T07:57:34.474Z",
+    "updatedAt": "2026-04-23T07:57:34.474Z",
+    "userId": "1776930999519e4e2hqe6m",
+    "badgeName": "First Steps",
+    "badgeType": "first-steps",
+    "description": "Complete your first quiz",
+    "earnedAt": "2026-04-23T07:57:34.474Z"
+  },
+  {
+    "id": "1776931771479nljk2zea7",
+    "createdAt": "2026-04-23T08:09:31.479Z",
+    "updatedAt": "2026-04-23T08:09:31.479Z",
+    "userId": "1776931731340e8wdr3n2j",
+    "badgeName": "First Steps",
+    "badgeType": "first-steps",
+    "description": "Complete your first quiz",
+    "earnedAt": "2026-04-23T08:09:31.479Z"
+  },
+  {
+    "id": "1776934716809sjr8bwhr9",
+    "createdAt": "2026-04-23T08:58:36.809Z",
+    "updatedAt": "2026-04-23T08:58:36.809Z",
+    "userId": "17769342711678yq2isl0n",
+    "badgeName": "First Steps",
+    "badgeType": "first-steps",
+    "description": "Complete your first quiz",
+    "earnedAt": "2026-04-23T08:58:36.809Z"
+  },
+  {
+    "id": "1777055255566fovgn0vut",
+    "createdAt": "2026-04-24T18:27:35.566Z",
+    "updatedAt": "2026-04-24T18:27:35.566Z",
+    "userId": "1777055222456w7eq1xgem",
+    "badgeName": "First Steps",
+    "badgeType": "first-steps",
+    "description": "Complete your first quiz",
+    "earnedAt": "2026-04-24T18:27:35.565Z"
+  },
+  {
+    "id": "1777056597512zbggdmumf",
+    "createdAt": "2026-04-24T18:49:57.512Z",
+    "updatedAt": "2026-04-24T18:49:57.512Z",
+    "userId": "1777056481271tz8052oac",
+    "badgeName": "First Steps",
+    "badgeType": "first-steps",
+    "description": "Complete your first quiz",
+    "earnedAt": "2026-04-24T18:49:57.512Z"
+  },
+  {
+    "id": "1777056610505a2oywxajk",
+    "createdAt": "2026-04-24T18:50:10.505Z",
+    "updatedAt": "2026-04-24T18:50:10.505Z",
+    "userId": "1777056481271tz8052oac",
+    "badgeName": "Level 2 Reached",
+    "badgeType": "level-up",
+    "description": "Reached level 2!",
+    "earnedAt": "2026-04-24T18:50:10.505Z"
+  },
+  {
+    "id": "1777056613957vt9i73qu4",
+    "createdAt": "2026-04-24T18:50:13.957Z",
+    "updatedAt": "2026-04-24T18:50:13.957Z",
+    "userId": "1777056481271tz8052oac",
+    "badgeName": "Finance & Money Master",
+    "badgeType": "chapter-complete",
+    "description": "Completed all levels in Finance & Money",
+    "earnedAt": "2026-04-24T18:50:13.957Z"
+  },
+  {
+    "id": "17774015113792o1g9we2k",
+    "createdAt": "2026-04-28T18:38:31.379Z",
+    "updatedAt": "2026-04-28T18:38:31.379Z",
+    "userId": "17774014844899f5kh65o9",
+    "badgeName": "First Steps",
+    "badgeType": "first-steps",
+    "description": "Complete your first quiz",
+    "earnedAt": "2026-04-28T18:38:31.379Z"
+  },
+  {
+    "id": "1777402121249mq7facowi",
+    "createdAt": "2026-04-28T18:48:41.249Z",
+    "updatedAt": "2026-04-28T18:48:41.249Z",
+    "userId": "1777402098676xr0xdxu9j",
+    "badgeName": "First Steps",
+    "badgeType": "first-steps",
+    "description": "Complete your first quiz",
+    "earnedAt": "2026-04-28T18:48:41.249Z"
+  },
+  {
+    "id": "1777450297947oaiw019n8",
+    "createdAt": "2026-04-29T08:11:37.947Z",
+    "updatedAt": "2026-04-29T08:11:37.947Z",
+    "userId": "1777450262240b9yh02tor",
+    "badgeName": "First Steps",
+    "badgeType": "first-steps",
+    "description": "Complete your first quiz",
+    "earnedAt": "2026-04-29T08:11:37.947Z"
+  },
+  {
+    "id": "1777530256053w74twujpx",
+    "createdAt": "2026-04-30T06:24:16.053Z",
+    "updatedAt": "2026-04-30T06:24:16.053Z",
+    "userId": "1777530231776oosw4er5q",
+    "badgeName": "First Steps",
+    "badgeType": "first-steps",
+    "description": "Complete your first quiz",
+    "earnedAt": "2026-04-30T06:24:16.053Z"
+  },
+  {
+    "id": "17775379056690gl5sap9r",
+    "createdAt": "2026-04-30T08:31:45.669Z",
+    "updatedAt": "2026-04-30T08:31:45.669Z",
+    "userId": "17775378877878g6h00mok",
+    "badgeName": "First Steps",
+    "badgeType": "first-steps",
+    "description": "Complete your first quiz",
+    "earnedAt": "2026-04-30T08:31:45.669Z"
+  },
+  {
+    "id": "17775392890531uxmci3y9",
+    "createdAt": "2026-04-30T08:54:49.053Z",
+    "updatedAt": "2026-04-30T08:54:49.053Z",
+    "userId": "17775392635328gxsfv2yf",
+    "badgeName": "First Steps",
+    "badgeType": "first-steps",
+    "description": "Complete your first quiz",
+    "earnedAt": "2026-04-30T08:54:49.053Z"
+  },
+  {
+    "id": "1778126656206tu8wci0zb",
+    "createdAt": "2026-05-07T04:04:16.206Z",
+    "updatedAt": "2026-05-07T04:04:16.206Z",
+    "userId": "1778126637327x8sqiszh5",
+    "badgeName": "First Steps",
+    "badgeType": "first-steps",
+    "description": "Complete your first quiz",
+    "earnedAt": "2026-05-07T04:04:16.205Z"
+  }
+]
