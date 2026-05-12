@@ -1,8 +1,15 @@
 {
-  "experimentalServices": {
-    "web": {
-      "entrypoint": ".",
-      "routePrefix": "/"
+  "version": 2,
+  "buildCommand": "cd frontend && npm install && npm run build",
+  "outputDirectory": "frontend/.next",
+  "installCommand": "cd frontend && npm install",
+  "framework": "nextjs",
+  "env": {
+    "NEXT_PUBLIC_API_URL": "https://adultiq-production-36ab.up.railway.app"
+  },
+  "build": {
+    "env": {
+      "NEXT_PUBLIC_API_URL": "https://adultiq-production-36ab.up.railway.app"
     }
   }
 }
